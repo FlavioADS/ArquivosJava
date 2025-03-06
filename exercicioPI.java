@@ -21,3 +21,4 @@ public class exercicioPI {
     }
     }
 }
+//Código de acumulação
